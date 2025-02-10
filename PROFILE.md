@@ -7,3 +7,6 @@ test test
 
 
 ![zander-on-the-bottom--bottom-is-sandy](https://github.com/user-attachments/assets/240edf20-02a4-431b-8572-7c9a430d06f8)
+
+def greet():
+    print("Hello, world!")
